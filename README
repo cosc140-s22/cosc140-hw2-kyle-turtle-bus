@@ -6,7 +6,11 @@
   I spent a lot of time on the first part (due to figuring out the math) but much less on the second part. I really liked working with turtle and I think I made a decent picture of a beach. I'm still getting used to comp sci problems.
  * What did you think about it?  What was good?  What could be improved?
 I think it was good. I had to think outside of the box for the first part and it was pretty reasonable. I think the turtle homework should have been assigned after learning loops and not before, I was struggling working with them for a bit. I tried to find a unique way of making waves by implementing a sine wave function drawing which was fun to code. Definitely the hardest part for me is knowing where to start with coding. It's like learning a new language and grammar at the same time.
+
 ## Feedback
 
-Once you commit and submit your work to Github, I'll update this section with feedback.
+S
 
+For the bus problem, one minor thing is that if the trip starts toward the end of one day (e.g., 23:59), the hour should reset to 0 if the arrival is in the next day.  Otherwise, nice job on the computations which are a bit tricky to get right.
+
+I loved the turtle drawing!  Really nice job with that.  The different speeds make it pretty interesting to watch too.
